@@ -1,0 +1,26 @@
+{
+  "name": "expressmini",
+  "version": "1.0.0",
+  "description": "Mini Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taviani/expressmini.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Edouard Lacan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taviani/expressmini/issues"
+  },
+  "homepage": "https://github.com/taviani/expressmini#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
